@@ -7,6 +7,7 @@ https://aws.amazon.com/ko/free/?trk=fa2d6ba3-df80-4d24-a453-bf30ad163af9&sc_chan
 Azure GCP
 php파일은 서버컴퓨터에 저장
 주석 : #, //
+vscode에서 웹페이지 실행 : Alt + B
 
 221012
 주소창을 통해서 전달하는 방식 : get
