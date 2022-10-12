@@ -1,0 +1,6 @@
+서버 Web Server, DB Server
+다수의 클라이언트가 Browser을 이용해 Server에 접속, 접속번호=포트
+80:default port, localhost로 접속가능 만약 포트 번호를 바꾸면 localhost:1234 로 접속해야함.
+
+aws 학습하기
+https://aws.amazon.com/ko/free/?trk=fa2d6ba3-df80-4d24-a453-bf30ad163af9&sc_channel=ps&s_kwcid=AL!4422!3!563761819834!e!!g!!aws&ef_id=EAIaIQobChMIwLbipsXZ-gIVIsFMAh2J4ANqEAAYASAAEgIXsvD_BwE:G:s&s_kwcid=AL!4422!3!563761819834!e!!g!!aws&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all
