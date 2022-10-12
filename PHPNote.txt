@@ -4,3 +4,5 @@
 
 aws 학습하기
 https://aws.amazon.com/ko/free/?trk=fa2d6ba3-df80-4d24-a453-bf30ad163af9&sc_channel=ps&s_kwcid=AL!4422!3!563761819834!e!!g!!aws&ef_id=EAIaIQobChMIwLbipsXZ-gIVIsFMAh2J4ANqEAAYASAAEgIXsvD_BwE:G:s&s_kwcid=AL!4422!3!563761819834!e!!g!!aws&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all
+Azure GCP
+php파일은 서버컴퓨터에 저장
