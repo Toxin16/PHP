@@ -6,11 +6,12 @@ aws 학습하기
 https://aws.amazon.com/ko/free/?trk=fa2d6ba3-df80-4d24-a453-bf30ad163af9&sc_channel=ps&s_kwcid=AL!4422!3!563761819834!e!!g!!aws&ef_id=EAIaIQobChMIwLbipsXZ-gIVIsFMAh2J4ANqEAAYASAAEgIXsvD_BwE:G:s&s_kwcid=AL!4422!3!563761819834!e!!g!!aws&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all
 Azure GCP
 php파일은 서버컴퓨터에 저장
+주석 : #, //
 
 221012
 주소창을 통해서 전달하는 방식 : get
 파일 특정 영역으로 전달하는 방식 : post
-&nbsp; //php에서의 공백
-<<2 //왼쪽으로 2번 시프트 = 2의 2승을 곱함과 같음,   >>3 //오른쪽으로 3번 시프트 = 2의 3승을 나눔과 같음
+&nbsp; #php에서의 공백
+<<2 #왼쪽으로 2번 시프트 = 2의 2승을 곱함과 같음,   >>3 //오른쪽으로 3번 시프트 = 2의 3승을 나눔과 같음
 
 연산자 우선순위 : 단항 - 산술 - shift - 관계 - bit - 논리 - 삼항 - 할당 - 콤마(,)
