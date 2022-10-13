@@ -17,3 +17,13 @@ vscode에서 웹페이지 실행 : Alt + B
 
 연산자 우선순위 : 단항 - 산술 - shift - 관계 - bit - 논리 - 삼항 - 할당 - 콤마(,)
 123 == 123.0 (true)  123 === 123.0 (false)   # ==은 값만 검사, ===은 데이터 타입도 검사
+
+이중배열 $freshman = array(
+  "David" =>  "Computer",
+  "Alice"  =>  "Math",
+  "Elsa"  =>  "Physics",
+  "Bob"  =>  "Music",
+  "Chris" =>  array("Electronics", "Statistics")
+); 에서 Electronics를 출력하는 코드는 print $freshman["Chris"][0]; 
+
+위의 배열에 "Clement" => array("First" => "Dance", "Second" => "Design")를 추가한다면 Dance를 출력하는 코드는 print $freshman["Clement"]["First"];
