@@ -1,3 +1,5 @@
+유용한 사이트 : geeksforgeeks
+
 서버 Web Server, DB Server
 다수의 클라이언트가 Browser을 이용해 Server에 접속, 접속번호=포트
 80:default port, localhost로 접속가능 만약 포트 번호를 바꾸면 localhost:1234 로 접속해야함.
@@ -28,3 +30,4 @@ vscode에서 웹페이지 실행 : Alt + B
 ); 에서 Electronics를 출력하는 코드는 print $freshman["Chris"][0]; 
 
 위의 배열에 "Clement" => array("First" => "Dance", "Second" => "Design")를 추가한다면 Dance를 출력하는 코드는 print $freshman["Clement"]["First"];
+
