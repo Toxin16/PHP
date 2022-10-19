@@ -31,3 +31,9 @@ vscode에서 웹페이지 실행 : Alt + B
 
 위의 배열에 "Clement" => array("First" => "Dance", "Second" => "Design")를 추가한다면 Dance를 출력하는 코드는 print $freshman["Clement"]["First"];
 
+221019
+unset($fruit["Pear"], $fruit["Banana"]);  //배열삭제
+array_diff //다른 array와 비교해서 array에 없는 값을 반환
+print_r //변수의 정보 출력
+배열안에 인덱스가 문자인 배열이 섞여있으면 diff 사용불가. 인덱스가 숫자이면 가능.  //PHP언어 잘못된 제작.
+print와 echo의 차이 : echo는 그냥 명령문일 뿐이라 함수처럼 사용할 수 없고 리턴 값이 없지만, print는 함수처럼 사용할 수 있고 1을 리턴한다는 점
