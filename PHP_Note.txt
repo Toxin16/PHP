@@ -1,4 +1,5 @@
 유용한 사이트 : geeksforgeeks
+VScode tip : 변수 한번에 바꾸기 Ctrl + Shift + L
 
 서버 Web Server, DB Server
 다수의 클라이언트가 Browser을 이용해 Server에 접속, 접속번호=포트
@@ -57,4 +58,9 @@ static로 선언 : 한번만 초기화.
 에서 결과는 12345678910이 됨. static이 없으면 결과는 1111...이 됨.
 call by reference : $를 붙이면 주소를 참조
 
-ipconfig - ip확인, 외부에서 접근할때는 내 아이피 210.110.174.186를 입력, 내가 내 아이피 접근할때는 127.0.0.1
+221020
+https://lordofkangs.tistory.com/41
+ipconfig - ip확인, 외부에서 접근할때는 내 아이피 210.110.174.186를 입력, 내가 내 아이피 접근할때는 127.0.0.1 or localhost
+도메인 dns, everything
+환경변수 - path 설정하면 다른 디렉토리에서도 접근 가능.
+수학함수 sqrt() //제곱근, pow()  //제곱
