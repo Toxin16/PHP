@@ -70,3 +70,18 @@ sscanf : 문자열을 주어진 문자열로 분리
 
 221027 파일
 r : 읽기전용, r+ : 읽고쓰기, w : 쓰기전용(파일포인터는 파일의 시작에 위치, 존재하지 않으면 생성, 존재하면 삭제), a : 쓰기전용(포인터가 파일의 끝에위치, 존재하지 않으면 생성)
+
+php에서 table 사용
+  print "<table>";
+  foreach($dataset as $data)
+  {
+    print "<tr>";
+    $str = explode(" ", $data);
+    print "<td>Name</td><td>".$str[0]."</td><td>Major</td><td>"
+    .$str[1]. "</td><td>Degree</td><td>". $str[2]."</td>";
+    print "</tr>";
+  }
+  print "</table>";
+  
+세션
+global  //전역변수
