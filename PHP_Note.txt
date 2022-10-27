@@ -83,5 +83,5 @@ php에서 table 사용
   }
   print "</table>";
   
-세션
+세션 : 모든 페이지에서 사용가능한 변수 session_start();
 global  //전역변수
