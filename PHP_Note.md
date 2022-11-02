@@ -85,3 +85,11 @@ php에서 table 사용
   
 세션 : 모든 페이지에서 사용가능한 변수 session_start();
 global  //전역변수
+
+1102
+서버에서 데이터 관리 : 세션 사용
+클라이언트에서 데이터 관리 : 쿠키
+
+## 데이터베이스
+C:\laragon\bin\mysql\mysql-5.7.33-winx64\bin>
+mysql -u root -p (enter), root password 없음
