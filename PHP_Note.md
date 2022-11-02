@@ -93,3 +93,9 @@ global  //전역변수
 ## 데이터베이스
 C:\laragon\bin\mysql\mysql-5.7.33-winx64\bin>
 mysql -u root -p (enter), root password 없음
+show databases; //데이터베이스 목록출력, show tables; //테이블 출력
+use goods;  //데이터베이스의 목록의 goods 사용
+ctrl + c : 작업취소
+용어
+원소 하나 : data / 원소의 모임 : 필드 / 서로 연관성이 있는 필드의 묶음 : record / 전체 : table
+데이터베이스에는 여러 테이블이 있을 수 있음. 
