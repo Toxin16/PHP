@@ -10,7 +10,8 @@
     </tr>
 <?PHP
   include( "./cart_products.inc" );
-  while( list( $name ,$price ) =  each( $fruit ) )
+//  while( list( $name ,$price ) =  each( $fruit ) )
+  foreach($fruit as $name => $price)
   {
 ?>
   <form name="insert_form" method="post" 
